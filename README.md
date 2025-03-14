@@ -1,4 +1,10 @@
 ![image](https://github.com/mmahesh09/Code2flow/blob/8cd29f842e6b2ba646195202657679b1849fa393/imgs/Black%20Technology%20LinkedIn%20Banner%20(3).png)
+<p align="center">
+  <img src="https://img.shields.io/github/commit-activity/m/mmahesh09/Code2flow" />
+  <img src="https://img.shields.io/github/watchers/mmahesh09/Code2flow?style=social" />
+  <img src="https://img.shields.io/github/contributors/mmahesh09/Code2flow" />
+  <img src="https://img.shields.io/github/license/mmahesh09/Code2flow" />
+</p>
 
 
 # Code2Flow 
