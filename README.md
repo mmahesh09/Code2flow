@@ -5,5 +5,8 @@
 # Code2flow
  >" 72% of developers believe visual representations improve debugging efficiency. (Stack Overflow Survey)"
 
-Code2Flow is an intuitive online tool that converts programming code into dynamic flowcharts, making it easier to visualize and understand complex logic structures. Supporting Python, C, and Java, Code2Flow helps developers, students, and educators quickly transform their code into clear, interactive diagrams.
+## Overview
+
+
+Code2Flow is an intuitive online tool that converts **Python, C, and Java** code into interactive flowcharts, making it easier to visualize complex logic structures. Designed for developers, students, and educators, it simplifies code comprehension and debugging by transforming raw code into **clear, structured diagrams**. Built using React.js, Mermaid.js, and Material UI, it provides real-time flowchart generation with **dark mode** support and the ability to download diagrams as PNGs. Whether for learning, teaching, or documentation, Code2Flow enhances understanding and efficiency. Future improvements include AI-powered optimizations and expanded language support for a more robust coding experience. 🚀
 
