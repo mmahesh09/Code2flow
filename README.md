@@ -90,3 +90,30 @@ Planned updates include AI-powered code analysis multi-language expansion, and c
 #### 📌 Phase 4: Deployment & Community (🌍 Future Plans)  
 🌟 *Host as a web app*, ensure *mobile compatibility*, and enable *open-source contributions*.  
 
+
+## Installation
+
+Install my-project with npm
+
+```bash
+ git clone https://github.com/mmahesh09/Code2flow
+```
+ Install All dependencies
+
+```bash
+  npm install code2flow
+  cd code2flow
+```
+Now run the project
+
+```bash
+  npm run dev
+```
+Runs at 
+
+```bash
+  http://localhost:3000/
+```
+    
+    
+
