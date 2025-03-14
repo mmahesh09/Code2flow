@@ -81,6 +81,6 @@ Planned updates include AI-powered code analysis multi-language expansion, and c
 🚀 *AI-powered code analysis* and *multi-language support* (JavaScript)
 🚀 *Customizable flowcharts*, *export options (PDF, SVG)*, and *collaboration tools*.  
 
-###📌 Phase 4: Deployment & Community (🌍 Future Plans)  
+#### 📌 Phase 4: Deployment & Community (🌍 Future Plans)  
 🌟 *Host as a web app*, ensure *mobile compatibility*, and enable *open-source contributions*.  
 
