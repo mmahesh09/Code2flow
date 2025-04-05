@@ -25,6 +25,7 @@ Understanding complex logic flows in programming can be challenging. Traditional
 
 ## Working 
 
+
  
 
 Code2Flow takes Python, C, or Java code as input and dynamically converts it into a flowchart and structured pseudocode The frontend, built with *React.js*, processes the code, extracts logical structures like *loops, conditionals, and functions*, and passes them to *Mermaid.js* for real-time flowchart generation. A *custom algorithm* generates well-structured pseudocode alongside the flowchart.  
